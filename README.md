@@ -1,3 +1,4 @@
+# Using Twitter API to parse the words and phrases and count their frequencies
 HOW TO RUN CODE  
 1 - Have the tweets.txt in the same folder as server.py, vocabulary_size.py, and word_count.py.  
 2 - Pip-install all of the libraries we use in server.py as well as running “python -m spacy download en_core_web_sm” within the Linux VM.  
